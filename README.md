@@ -1,7 +1,7 @@
 # Expression evaluator
 Evaluates arithmetic and boolean expressions in [polish notation](https://en.wikipedia.org/wiki/Polish_notation).
 
-### Evaluates arithmetic expressions:
+### Arithmetic expressions:
 * Addition (`+`)
 * Subtraction (`-`)
 * Multiplication (`*`)
@@ -10,7 +10,7 @@ Evaluates arithmetic and boolean expressions in [polish notation](https://en.wik
 
 Accepts real numbers.
 
-### Evaluates boolean expressions:
+### Boolean expressions:
 * Conjunction (`*`)
 * Disjunction (`+`)
 * Negation (`!`)
